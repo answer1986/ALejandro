@@ -1,0 +1,7 @@
+cl\falabella\omniChanel\po\PaginaInicioPO.class
+cl\falabella\omniChanel\po\BasePage.class
+cl\falabella\omniChanel\util\OmniChanelUtils.class
+cl\falabella\omniChanel\po\TransferenciasTercerosPO.class
+cl\falabella\omniChanel\Services\ServiciosWSDL.class
+cl\falabella\omniChanel\po\HomeClientePO.class
+cl\falabella\omniChanel\Services\Employee.class

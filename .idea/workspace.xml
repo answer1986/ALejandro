@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9132b4b2-1d4c-4466-afb1-06b9449aa37d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V7wokbx1ZoTYD3O7IkDTcaWSNb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Properties" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAR/jar_files.zip!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pcalderonr\Desktop\FalabellaOmniChanel\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test_Inicio_Omnichanel.Test_01_Consolidada">
+    <configuration name="Test_Inicio_Omnichanel.Test_01_Consolidada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FalabellaOmniChanel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.falabella.omniChanel.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.falabella.omniChanel.test" />
+      <option name="MAIN_CLASS_NAME" value="cl.falabella.omniChanel.test.Test_Inicio_Omnichanel" />
+      <option name="METHOD_NAME" value="Test_01_Consolidada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Inicio_Omnichanel.Test_02_MisPOrductos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FalabellaOmniChanel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.falabella.omniChanel.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.falabella.omniChanel.test" />
+      <option name="MAIN_CLASS_NAME" value="cl.falabella.omniChanel.test.Test_Inicio_Omnichanel" />
+      <option name="METHOD_NAME" value="Test_02_MisPOrductos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Ultimos_Movimientos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FalabellaOmniChanel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.falabella.omniChanel.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.falabella.omniChanel.test" />
+      <option name="MAIN_CLASS_NAME" value="cl.falabella.omniChanel.test.Test_Ultimos_Movimientos" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Ultimos_Movimientos.Test_01_Consolidada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FalabellaOmniChanel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.falabella.omniChanel.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.falabella.omniChanel.test" />
+      <option name="MAIN_CLASS_NAME" value="cl.falabella.omniChanel.test.Test_Ultimos_Movimientos" />
+      <option name="METHOD_NAME" value="Test_01_Consolidada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Ultimos_Movimientos.Test_01_UltmosMovimientos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FalabellaOmniChanel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.falabella.omniChanel.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cl.falabella.omniChanel.test" />
+      <option name="MAIN_CLASS_NAME" value="cl.falabella.omniChanel.test.Test_Ultimos_Movimientos" />
+      <option name="METHOD_NAME" value="Test_01_UltmosMovimientos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test_Inicio_Omnichanel.Test_01_Consolidada" />
+        <item itemvalue="JUnit.Test_Inicio_Omnichanel.Test_02_MisPOrductos" />
+        <item itemvalue="JUnit.Test_Ultimos_Movimientos.Test_01_UltmosMovimientos" />
+        <item itemvalue="JUnit.Test_Ultimos_Movimientos.Test_01_Consolidada" />
+        <item itemvalue="JUnit.Test_Ultimos_Movimientos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9132b4b2-1d4c-4466-afb1-06b9449aa37d" name="Default Changelist" comment="" />
+      <created>1576617618023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576617618023</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2281" y="75" key="#Project_Structure" timestamp="1578332205681">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state x="2281" y="75" key="#Project_Structure/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1578332205681" />
+    <state x="501" y="158" key="FileChooserDialogImpl" timestamp="1576699430778">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="501" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1576699430778" />
+    <state width="1493" height="371" key="GridCell.Tab.0.bottom" timestamp="1579205010278">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577114103455" />
+    <state width="1877" height="172" key="GridCell.Tab.0.bottom/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1578940497939" />
+    <state width="1493" height="371" key="GridCell.Tab.0.bottom/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579205010278" />
+    <state width="1493" height="371" key="GridCell.Tab.0.center" timestamp="1579205010277">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577114103455" />
+    <state width="1877" height="172" key="GridCell.Tab.0.center/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1578940497939" />
+    <state width="1493" height="371" key="GridCell.Tab.0.center/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579205010277" />
+    <state width="1493" height="371" key="GridCell.Tab.0.left" timestamp="1579205010277">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577114103455" />
+    <state width="1877" height="172" key="GridCell.Tab.0.left/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1578940497939" />
+    <state width="1493" height="371" key="GridCell.Tab.0.left/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579205010277" />
+    <state width="1493" height="371" key="GridCell.Tab.0.right" timestamp="1579205010277">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577114103455" />
+    <state width="1877" height="172" key="GridCell.Tab.0.right/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1578940497939" />
+    <state width="1493" height="371" key="GridCell.Tab.0.right/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579205010277" />
+    <state width="1493" height="271" key="GridCell.Tab.1.bottom" timestamp="1579202642538">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577112152796" />
+    <state width="1493" height="351" key="GridCell.Tab.1.bottom/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1577202005161" />
+    <state width="1493" height="271" key="GridCell.Tab.1.bottom/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579202642538" />
+    <state width="1493" height="271" key="GridCell.Tab.1.center" timestamp="1579202642538">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1577112152796" />
+    <state width="1493" height="351" key="GridCell.Tab.1.center/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1577202005161" />
+    <state width="1493" height="271" key="GridCell.Tab.1.center/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579202642538" />
+    <state width="1493" height="271" key="GridCell.Tab.1.left" timestamp="1579202642538">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1577112152796" />
+    <state width="1493" height="351" key="GridCell.Tab.1.left/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1577202005161" />
+    <state width="1493" height="271" key="GridCell.Tab.1.left/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579202642538" />
+    <state width="1493" height="271" key="GridCell.Tab.1.right" timestamp="1579202642538">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1577112152796" />
+    <state width="1493" height="351" key="GridCell.Tab.1.right/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1577202005161" />
+    <state width="1493" height="271" key="GridCell.Tab.1.right/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579202642538" />
+    <state x="374" y="89" key="Maven.ArtifactSearchDialog" timestamp="1577195684198">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1576698678970" />
+    <state x="374" y="89" key="Maven.ArtifactSearchDialog/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1577195684198" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1576785516173">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1576785516173" />
+    <state x="514" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1579527696915">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="514" y="219" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1579527696915" />
+    <state x="581" y="302" key="com.intellij.ide.util.TipDialog/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1579122181393" />
+    <state x="2423" y="149" key="com.intellij.ide.util.TipDialog/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1578936617570" />
+    <state x="731" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1577195180436">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="731" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1577195180436" />
+    <state x="209" y="112" key="new project wizard" timestamp="1576699433813">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="112" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1576699433813" />
+    <state x="2395" y="45" key="refactoring.ChangeSignatureDialog" timestamp="1578337147413">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state x="2395" y="45" key="refactoring.ChangeSignatureDialog/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1578337147413" />
+    <state x="2345" y="189" key="run.anything.popup" timestamp="1579204112806">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state x="2345" y="189" key="run.anything.popup/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1579204112806" />
+    <state x="2351" y="161" width="672" height="678" key="search.everywhere.popup" timestamp="1578336877133">
+      <screen x="1920" y="0" width="1536" height="840" />
+    </state>
+    <state x="2351" y="161" width="672" height="678" key="search.everywhere.popup/1920.0.1536.840/0.0.1920.1050@1920.0.1536.840" timestamp="1578336877133" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cl/falabella/omniChanel/po/HomeClientePO.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cl/falabella/omniChanel/test/Test_Inicio_Omnichanel.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FalabellaOmniChanel$Test_Inicio_Omnichanel_Test_inicio.ic" NAME="Test_Inicio_Omnichanel.Test_inicio Coverage Results" MODIFIED="1577131216716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cl.falabella.omniChanel.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
